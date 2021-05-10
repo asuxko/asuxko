@@ -2,7 +2,7 @@
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate on anything cybersecurity relatated
-- 📫 How to reach me naankingjr@gmail.com
+- 📫 How to reach me nanakingjr@gmail.com
 
 <!---
 asuxko/asuxko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
